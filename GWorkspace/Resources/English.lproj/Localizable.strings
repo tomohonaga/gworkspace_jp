@@ -1,0 +1,1973 @@
+/***
+English.lproj/Localizable.strings
+updated by make_strings 2026-04-01 16:15:38 +0900
+add comments above this one
+***/
+
+/* File: GWorkspace.m:200 */
+/* File: GWorkspace.m:362 */
+"View" = "View";
+
+/* File: GWorkspace.m:216 */
+/* File: GWorkspace.m:363 */
+"Show" = "Show";
+
+/* File: GWorkspace.m:262 */
+/* File: GWorkspace.m:272 */
+/* File: GWorkspace.m:461 */
+/* File: GWorkspace.m:1914 */
+/* File: GWorkspace.m:1943 */
+/* File: GWorkspace.m:2299 */
+/* File: GWorkspace.m:2331 */
+/* File: GWorkspace.m:2357 */
+/* File: GWorkspace.m:2382 */
+/* File: GWorkspace.m:2420 */
+/* File: GWorkspace.m:2431 */
+"Tools" = "Tools";
+
+/* File: GWorkspace.m:277 */
+/* File: GWorkspace.m:2358 */
+/* File: GWorkspace.m:2383 */
+"Fiend" = "Fiend";
+
+/* File: GWorkspace.m:281 */
+/* File: GWorkspace.m:2421 */
+/* File: GWorkspace.m:2432 */
+"Tabbed Shelf" = "Tabbed Shelf";
+
+/* File: GWorkspace.m:284 */
+/* File: GWorkspace.m:2434 */
+"Show Tabbed Shelf" = "Show Tabbed Shelf";
+
+/* File: GWorkspace.m:299 */
+/* File: GWorkspace.m:462 */
+/* File: GWorkspace.m:2305 */
+/* File: GWorkspace.m:2321 */
+"Show Desktop" = "Show Desktop";
+
+/* File: GWorkspace.m:300 */
+/* File: GWorkspace.m:1915 */
+/* File: GWorkspace.m:1956 */
+/* File: GWorkspace.m:2315 */
+/* File: GWorkspace.m:2338 */
+/* File: GWorkspace.m:2346 */
+"Show Recycler" = "Show Recycler";
+
+/* File: GWorkspace.m:329 */
+/* File: WorkspaceApplication.m:922 */
+/* File: WorkspaceApplication.m:1002 */
+"Logout" = "Logout";
+
+/* File: GWorkspace.m:463 */
+/* File: GWorkspace.m:2306 */
+/* File: GWorkspace.m:2320 */
+"Hide Desktop" = "Hide Desktop";
+
+/* File: GWorkspace.m:602 */
+/* File: GWorkspace.m:1801 */
+/* File: GWorkspace.m:1846 */
+/* File: GWorkspace.m:1933 */
+/* File: GWorkspace.m:2028 */
+/* File: GWorkspace.m:2050 */
+/* File: GWorkspace.m:2137 */
+/* File: WorkspaceApplication.m:83 */
+/* File: WorkspaceApplication.m:171 */
+/* File: WorkspaceApplication.m:253 */
+/* File: WorkspaceApplication.m:301 */
+"Ok" = "Ok";
+
+/* File: GWorkspace.m:612 */
+/* File: GWorkspace.m:1231 */
+/* File: GWorkspace.m:1823 */
+/* File: GWorkspace.m:1962 */
+/* File: GWorkspace.m:2159 */
+/* File: GWorkspace.m:2712 */
+"Yes" = "Yes";
+
+/* File: GWorkspace.m:613 */
+/* File: GWorkspace.m:1824 */
+/* File: GWorkspace.m:1963 */
+/* File: GWorkspace.m:2160 */
+"No" = "No";
+
+/* File: GWorkspace.m:1225 */
+/* File: GWorkspace.m:2706 */
+"Are you sure you want to open" = "Are you sure you want to open";
+
+/* File: GWorkspace.m:1226 */
+/* File: GWorkspace.m:2707 */
+"items?" = "items?";
+
+/* File: GWorkspace.m:1230 */
+/* File: GWorkspace.m:2711 */
+/* File: WorkspaceApplication.m:925 */
+"Cancel" = "Cancel";
+
+/* File: GWorkspace.m:1266 */
+/* File: GWorkspace.m:1335 */
+/* File: GWorkspace.m:2727 */
+/* File: WorkspaceApplication.m:1400 */
+"error" = "error";
+
+/* File: GWorkspace.m:1268 */
+/* File: GWorkspace.m:1337 */
+/* File: GWorkspace.m:2729 */
+"Can't open " = "Can't open ";
+
+/* File: GWorkspace.m:1269 */
+/* File: GWorkspace.m:1338 */
+/* File: GWorkspace.m:2730 */
+/* File: WorkspaceApplication.m:1403 */
+"OK" = "OK";
+
+/* File: GWorkspace.m:1406 */
+/* File: GWorkspace.m:1456 */
+/* File: GWorkspace.m:1483 */
+/* File: GWorkspace.m:1529 */
+/* File: GWorkspace.m:1546 */
+"Error" = "Error";
+
+/* File: GWorkspace.m:1407 */
+/* File: GWorkspace.m:1457 */
+/* File: GWorkspace.m:1484 */
+/* File: GWorkspace.m:1530 */
+"You do not have write permission\nfor"
+  = "You do not have write permission\nfor";
+
+/* File: GWorkspace.m:1408 */
+/* File: GWorkspace.m:1458 */
+/* File: GWorkspace.m:1485 */
+/* File: GWorkspace.m:1531 */
+/* File: GWorkspace.m:1548 */
+"Continue" = "Continue";
+
+/* File: GWorkspace.m:1760 */
+/* File: GWorkspace.m:1890 */
+/* File: GWorkspace.m:1987 */
+/* File: GWorkspace.m:2105 */
+"starting:" = "starting:";
+
+/* File: GWorkspace.m:1918 */
+/* File: GWorkspace.m:1944 */
+/* File: GWorkspace.m:2314 */
+/* File: GWorkspace.m:2339 */
+/* File: GWorkspace.m:2345 */
+"Hide Recycler" = "Hide Recycler";
+
+/* File: WorkspaceApplication.m:82 */
+/* File: WorkspaceApplication.m:170 */
+/* File: WorkspaceApplication.m:252 */
+/* File: WorkspaceApplication.m:300 */
+"GWorkspace is logging out!" = "GWorkspace is logging out!";
+
+/* File: GWorkspace.m:168 */
+"Info" = "Info";
+
+/* File: GWorkspace.m:171 */
+"Info Panel..." = "Info Panel...";
+
+/* File: GWorkspace.m:172 */
+"Preferences..." = "Preferences...";
+
+/* File: GWorkspace.m:173 */
+"Help..." = "Help...";
+
+/* File: GWorkspace.m:174 */
+"Activate context help" = "Activate context help";
+
+/* File: GWorkspace.m:177 */
+"File" = "File";
+
+/* File: GWorkspace.m:180 */
+"Open" = "Open";
+
+/* File: GWorkspace.m:181 */
+"Open With..." = "Open With...";
+
+/* File: GWorkspace.m:182 */
+"Open as Folder" = "Open as Folder";
+
+/* File: GWorkspace.m:183 */
+"New Folder" = "New Folder";
+
+/* File: GWorkspace.m:184 */
+"New File" = "New File";
+
+/* File: GWorkspace.m:185 */
+"Duplicate" = "Duplicate";
+
+/* File: GWorkspace.m:186 */
+"Destroy" = "Destroy";
+
+/* File: GWorkspace.m:187 */
+"Move to Recycler" = "Move to Recycler";
+
+/* File: GWorkspace.m:188 */
+"Empty Recycler" = "Empty Recycler";
+
+/* File: GWorkspace.m:191 */
+"Edit" = "Edit";
+
+/* File: GWorkspace.m:194 */
+"Cut" = "Cut";
+
+/* File: GWorkspace.m:195 */
+ 
+"Copy" = "Copy";
+
+/* File: GWorkspace.m:196 */
+"Paste" = "Paste";
+
+/* File: GWorkspace.m:197 */
+"Select All" = "Select All";
+
+/* File: GWorkspace.m:203 */
+"Browser" = "Browser";
+
+/* File: GWorkspace.m:207 */
+"Icon" = "Icon";
+
+/* File: GWorkspace.m:211 */
+"List" = "List";
+
+/* File: GWorkspace.m:219 */
+"Name only" = "Name only";
+
+/* File: GWorkspace.m:220 */
+"Type" = "Type";
+
+/* File: GWorkspace.m:221 */
+"Size" = "Size";
+
+/* File: GWorkspace.m:222 */
+"Modification date" = "Modification date";
+
+/* File: GWorkspace.m:223 */
+"Owner" = "Owner";
+
+/* File: GWorkspace.m:225 */
+"Icon Size" = "Icon Size";
+
+/* File: GWorkspace.m:228 */
+"24" = "24";
+
+/* File: GWorkspace.m:229 */
+"28" = "28";
+
+/* File: GWorkspace.m:230 */
+"32" = "32";
+
+/* File: GWorkspace.m:231 */
+"36" = "36";
+
+/* File: GWorkspace.m:232 */
+"40" = "40";
+
+/* File: GWorkspace.m:233 */
+"48" = "48";
+
+/* File: GWorkspace.m:234 */
+"64" = "64";
+
+/* File: GWorkspace.m:236 */
+"Icon Position" = "Icon Position";
+
+/* File: GWorkspace.m:239 */
+"Up" = "Up";
+
+/* File: GWorkspace.m:240 */
+"Left" = "Left";
+
+/* File: GWorkspace.m:242 */
+"Thumbnails" = "Thumbnails";
+
+/* File: GWorkspace.m:245 */
+"Make thumbnail(s)" = "Make thumbnail(s)";
+
+/* File: GWorkspace.m:246 */
+"Remove thumbnail(s)" = "Remove thumbnail(s)";
+
+/* File: GWorkspace.m:248 */
+"Label Size" = "Label Size";
+
+/* File: GWorkspace.m:251 */
+"10" = "10";
+
+/* File: GWorkspace.m:252 */
+"11" = "11";
+
+/* File: GWorkspace.m:253 */
+"12" = "12";
+
+/* File: GWorkspace.m:254 */
+"13" = "13";
+
+/* File: GWorkspace.m:255 */
+"14" = "14";
+
+/* File: GWorkspace.m:256 */
+"15" = "15";
+
+/* File: GWorkspace.m:257 */
+"16" = "16";
+
+/* File: GWorkspace.m:259 */
+"Viewer" = "Viewer";
+
+/* File: GWorkspace.m:266 */
+"Inspectors" = "Inspectors";
+
+/* File: GWorkspace.m:269 */
+"Show Inspectors" = "Show Inspectors";
+
+/* File: GWorkspace.m:270 */
+"Attributes" = "Attributes";
+
+/* File: GWorkspace.m:271 */
+"Contents" = "Contents";
+
+/* File: GWorkspace.m:273 */
+"Annotations" = "Annotations";
+
+/* File: GWorkspace.m:275 */
+"Finder" = "Finder";
+
+/* File: GWorkspace.m:285 */
+"Remove Current Tab" = "Remove Current Tab";
+
+/* File: GWorkspace.m:286 */
+"Rename Current Tab" = "Rename Current Tab";
+
+/* File: GWorkspace.m:287 */
+"Add Tab..." = "Add Tab...";
+
+/* File: GWorkspace.m:289 */
+"Terminal" = "Terminal";
+
+/* File: GWorkspace.m:290 */
+"Run..." = "Run...";
+
+/* File: GWorkspace.m:292 */
+"History" = "History";
+
+/* File: GWorkspace.m:295 */
+"Show History" = "Show History";
+
+/* File: GWorkspace.m:296 */
+"Go backward" = "Go backward";
+
+/* File: GWorkspace.m:297 */
+"Go forward" = "Go forward";
+
+/* File: GWorkspace.m:302 */
+"Check for disks" = "Check for disks";
+
+/* File: GWorkspace.m:305 */
+"Windows" = "Windows";
+
+/* File: GWorkspace.m:308 */
+"Arrange in Front" = "Arrange in Front";
+
+/* File: GWorkspace.m:309 */
+"Miniaturize Window" = "Miniaturize Window";
+
+/* File: GWorkspace.m:310 */
+"Close Window" = "Close Window";
+
+/* File: GWorkspace.m:313 */
+"Services" = "Services";
+
+/* File: GWorkspace.m:318 */
+"Hide" = "Hide";
+
+/* File: GWorkspace.m:319 */
+"Hide Others" = "Hide Others";
+
+/* File: GWorkspace.m:320 */
+"Show All" = "Show All";
+
+/* File: GWorkspace.m:323 */
+"Print..." = "Print...";
+
+/* File: GWorkspace.m:326 */
+"Quit" = "Quit";
+
+/* File: GWorkspace.m:601 */
+"Wait the operations to terminate!" = "Wait the operations to terminate!";
+
+/* File: GWorkspace.m:610 */
+"Quit!" = "Quit!";
+
+/* File: GWorkspace.m:611 */
+"Do you really want to quit?" = "Do you really want to quit?";
+
+/* File: GWorkspace.m:1547 */
+": no such file or directory!" = ": no such file or directory!";
+
+/* File: GWorkspace.m:1800 */
+"unable to contact fswatcher\nfswatcher notifications disabled!"
+  = "unable to contact fswatcher\nfswatcher notifications disabled!";
+
+/* File: GWorkspace.m:1822 */
+"The fswatcher connection died.\nDo you want to restart it?"
+  = "The fswatcher connection died.\nDo you want to restart it?";
+
+/* File: GWorkspace.m:1845 */
+"fswatcher notifications disabled!" = "fswatcher notifications disabled!";
+
+/* File: GWorkspace.m:1932 */
+"unable to contact Recycler!" = "unable to contact Recycler!";
+
+/* File: GWorkspace.m:1961 */
+"The Recycler connection died.\nDo you want to restart it?"
+  = "The Recycler connection died.\nDo you want to restart it?";
+
+/* File: GWorkspace.m:2027 */
+"unable to contact ddbd." = "unable to contact ddbd.";
+
+/* File: GWorkspace.m:2049 */
+"ddbd connection died." = "ddbd connection died.";
+
+/* File: GWorkspace.m:2136 */
+"unable to contact mdextractor!" = "unable to contact mdextractor!";
+
+/* File: GWorkspace.m:2158 */
+"The mdextractor connection died.\nDo you want to restart it?"
+  = "The mdextractor connection died.\nDo you want to restart it?";
+
+/* File: GWorkspace.m:2368 */
+"Hide Fiend" = "Hide Fiend";
+
+/* File: GWorkspace.m:2370 */
+"Remove Current Layer" = "Remove Current Layer";
+
+/* File: GWorkspace.m:2372 */
+"Rename Current Layer" = "Rename Current Layer";
+
+/* File: GWorkspace.m:2374 */
+"Add Layer..." = "Add Layer...";
+
+/* File: GWorkspace.m:2394 */
+"Show Fiend" = "Show Fiend";
+
+/* File: GWorkspace.m:2423 */
+"Hide Tabbed Shelf" = "Hide Tabbed Shelf";
+
+/* File: WorkspaceApplication.m:901 */
+"Are you sure you want to quit\nall applications and log out now?"
+  = "Are you sure you want to quit\nall applications and log out now?";
+
+/* File: WorkspaceApplication.m:902 */
+"If you do nothing, the system will log out\nautomatically in "
+  = "If you do nothing, the system will log out\nautomatically in ";
+
+/* File: WorkspaceApplication.m:904 */
+"seconds." = "seconds.";
+
+/* File: WorkspaceApplication.m:924 */
+"Log out" = "Log out";
+
+/* File: WorkspaceApplication.m:998 */
+"The following applications:" = "The following applications:";
+
+/* File: WorkspaceApplication.m:1000 */
+"refuse to terminate." = "refuse to terminate.";
+
+/* File: WorkspaceApplication.m:1004 */
+"Kill applications" = "Kill applications";
+
+/* File: WorkspaceApplication.m:1005 */
+"Cancel logout" = "Cancel logout";
+
+/* File: WorkspaceApplication.m:1360 */
+"contacting:" = "contacting:";
+
+/* File: WorkspaceApplication.m:1402 */
+"seems to have hung" = "seems to have hung";
+
+/** FileViewer **/
+
+/* File: FileViewer/GWViewer.m:1029 */
+/* File: FileViewer/GWViewersManager.m:410 */
+"Are you sure you want to open" = "Are you sure you want to open";
+
+/* File: FileViewer/GWViewer.m:1030 */
+/* File: FileViewer/GWViewersManager.m:411 */
+"items?" = "items?";
+
+/* File: FileViewer/GWViewer.m:1034 */
+/* File: FileViewer/GWViewersManager.m:415 */
+"Cancel" = "Cancel";
+
+/* File: FileViewer/GWViewer.m:1035 */
+/* File: FileViewer/GWViewersManager.m:416 */
+"Yes" = "Yes";
+
+/* File: FileViewer/GWViewer.m:1062 */
+/* File: FileViewer/GWViewersManager.m:456 */
+/* File: FileViewer/GWViewersManager.m:468 */
+"error" = "error";
+
+/* File: FileViewer/GWViewer.m:1064 */
+/* File: FileViewer/GWViewersManager.m:458 */
+/* File: FileViewer/GWViewersManager.m:470 */
+"Can't open " = "Can't open ";
+
+/* File: FileViewer/GWViewer.m:1065 */
+/* File: FileViewer/GWViewer.m:1090 */
+/* File: FileViewer/GWViewer.m:1103 */
+/* File: FileViewer/GWViewer.m:1116 */
+/* File: FileViewer/GWViewer.m:1130 */
+/* File: FileViewer/GWViewer.m:1144 */
+/* File: FileViewer/GWViewer.m:1165 */
+/* File: FileViewer/GWViewersManager.m:459 */
+/* File: FileViewer/GWViewersManager.m:471 */
+"OK" = "OK";
+
+/* File: FileViewer/GWViewer.m:1102 */
+/* File: FileViewer/GWViewer.m:1115 */
+"You can't do this in the Recycler!" = "You can't do this in the Recycler!";
+
+/* File: FileViewer/GWViewerIconsPath.m:418 */
+/* File: FileViewer/GWViewerListView.m:151 */
+"Open with" = "Open with";
+
+/* File: FileViewer/GWViewer.m:220 */
+"File Viewer" = "File Viewer";
+
+/* File: FileViewer/GWViewer.m:674 */
+"unknown volume size" = "unknown volume size";
+
+/* File: FileViewer/GWViewer.m:691 */
+"free" = "free";
+
+/* File: FileViewer/GWViewer.m:1089 */
+"You can't open a document that is in the Recycler!"
+  = "You can't open a document that is in the Recycler!";
+
+/* File: FileViewer/GWViewer.m:1129 */
+"You can't create a new folder in the Recycler!"
+  = "You can't create a new folder in the Recycler!";
+
+/* File: FileViewer/GWViewer.m:1143 */
+"You can't create a new file in the Recycler!"
+  = "You can't create a new file in the Recycler!";
+
+/* File: FileViewer/GWViewer.m:1164 */
+"You can't duplicate files in the Recycler!"
+  = "You can't duplicate files in the Recycler!";
+
+/* File: FileViewer/GWViewer.m:1349 */
+"Name" = "Name";
+
+/* File: FileViewer/GWViewer.m:1351 */
+"Type" = "Type";
+
+/* File: FileViewer/GWViewer.m:1353 */
+"Size" = "Size";
+
+/* File: FileViewer/GWViewer.m:1355 */
+"Modification date" = "Modification date";
+
+/* File: FileViewer/GWViewer.m:1357 */
+"Owner" = "Owner";
+
+/* File: FileViewer/GWViewer.m:1389 */
+"Left" = "Left";
+
+/* File: FileViewer/GWViewer.m:1476 */
+"Icon Size" = "Icon Size";
+
+/* File: FileViewer/GWViewer.m:1478 */
+"Icon Position" = "Icon Position";
+
+/* File: FileViewer/GWViewer.m:1480 */
+"Label Size" = "Label Size";
+
+/* File: FileViewer/GWViewer.m:1482 */
+"Label Color..." = "Label Color...";
+
+/* File: FileViewer/GWViewer.m:1484 */
+"Background Color..." = "Background Color...";
+
+/** Dialogs **/
+
+/* File: Dialogs/Dialogs.m:121 */
+/* File: Dialogs/ExecuteController.m:60 */
+"Cancel" = "Cancel";
+
+/* File: Dialogs/Dialogs.m:131 */
+/* File: Dialogs/ExecuteController.m:59 */
+/* File: Dialogs/OpenWithController.m:78 */
+/* File: Dialogs/OpenWithController.m:141 */
+/* File: Dialogs/RunExternalController.m:94 */
+"OK" = "OK";
+
+/* File: Dialogs/OpenWithController.m:140 */
+/* File: Dialogs/RunExternalController.m:93 */
+"No executable found!" = "No executable found!";
+
+/* File: Dialogs/RunExternalController.m:51 */
+/* File: Dialogs/RunExternalController.m:58 */
+"Run" = "Run";
+
+/* File: Dialogs/OpenWithController.m:51 */
+"Open With" = "Open With";
+
+/* File: Dialogs/OpenWithController.m:52 */
+"Type the name or the path of the application"
+  = "Type the name or the path of the application";
+
+/* File: Dialogs/OpenWithController.m:53 */
+"to use to open the current selection"
+  = "to use to open the current selection";
+
+/* File: Dialogs/OpenWithController.m:77 */
+"Can't edit a directory!" = "Can't edit a directory!";
+
+/* File: Dialogs/RunExternalController.m:59 */
+"Type the command to execute:" = "Type the command to execute:";
+
+/* File: Dialogs/StartAppWin.m:63 */
+"starting:" = "starting:";
+
+/** Preferences **/
+
+/* File: Preferences/DefEditorPref.m:100 */
+/* File: Preferences/DesktopPref.m:132 */
+"Choose" = "Choose";
+
+/* File: Preferences/DefSortOrderPref.m:60 */
+/* File: Preferences/XTermPref.m:96 */
+"Set" = "Set";
+
+/* File: Preferences/HiddenFilesPref.m:180 */
+/* File: Preferences/HiddenFilesPref.m:188 */
+"Activate changes" = "Activate changes";
+
+/* File: Preferences/OperationPrefs.m:69 */
+/* File: Preferences/OperationPrefs.m:105 */
+"Status Window" = "Status Window";
+
+/* File: Preferences/OperationPrefs.m:72 */
+/* File: Preferences/OperationPrefs.m:109 */
+"Confirmation" = "Confirmation";
+
+/* File: Preferences/XTermPref.m:97 */
+/* File: Preferences/XTermPref.m:111 */
+"Terminal" = "Terminal";
+
+/* File: Preferences/BrowserViewerPref.m:113 */
+"Column Width" = "Column Width";
+
+/* File: Preferences/BrowserViewerPref.m:114 */
+"Use Default Settings" = "Use Default Settings";
+
+/* File: Preferences/BrowserViewerPref.m:128 */
+"Browser" = "Browser";
+
+/* File: Preferences/DefEditorPref.m:59 */
+"No Default Editor" = "No Default Editor";
+
+/* File: Preferences/DefEditorPref.m:101 */
+"Default Editor" = "Default Editor";
+
+/* File: Preferences/DefEditorPref.m:117 */
+"Editor" = "Editor";
+
+/* File: Preferences/DefEditorPref.m:143 */
+"is not a valid application!" = "is not a valid application!";
+
+/* File: Preferences/DefEditorPref.m:183 */
+"seems not a valid application!" = "seems not a valid application!";
+
+/* File: Preferences/DefSortOrderPref.m:61 */
+"Sort by" = "Sort by";
+
+/* File: Preferences/DefSortOrderPref.m:62 */
+"The method will apply to all the folders"
+  = "The method will apply to all the folders";
+
+/* File: Preferences/DefSortOrderPref.m:63 */
+"that have no order specified" = "that have no order specified";
+
+/* File: Preferences/DefSortOrderPref.m:64 */
+"Name" = "Name";
+
+/* File: Preferences/DefSortOrderPref.m:65 */
+"Type" = "Type";
+
+/* File: Preferences/DefSortOrderPref.m:66 */
+"Date" = "Date";
+
+/* File: Preferences/DefSortOrderPref.m:67 */
+"Size" = "Size";
+
+/* File: Preferences/DefSortOrderPref.m:68 */
+"Owner" = "Owner";
+
+/* File: Preferences/DefSortOrderPref.m:82 */
+"Sorting Order" = "Sorting Order";
+
+/* File: Preferences/DesktopPref.m:119 */
+"Background" = "Background";
+
+/* File: Preferences/DesktopPref.m:120 */
+"General" = "General";
+
+/* File: Preferences/DesktopPref.m:122 */
+"Color:" = "Color:";
+
+/* File: Preferences/DesktopPref.m:124 */
+"center" = "center";
+
+/* File: Preferences/DesktopPref.m:126 */
+"fit" = "fit";
+
+/* File: Preferences/DesktopPref.m:128 */
+"tile" = "tile";
+
+/* File: Preferences/DesktopPref.m:130 */
+"scale" = "scale";
+
+/* File: Preferences/DesktopPref.m:131 */
+"Use image" = "Use image";
+
+/* File: Preferences/DesktopPref.m:134 */
+"Dock" = "Dock";
+
+/* File: Preferences/DesktopPref.m:135 */
+"Show Dock" = "Show Dock";
+
+/* File: Preferences/DesktopPref.m:136 */
+"Position:" = "Position:";
+
+/* File: Preferences/DesktopPref.m:138 */
+"Left" = "Left";
+
+/* File: Preferences/DesktopPref.m:140 */
+"Right" = "Right";
+
+/* File: Preferences/DesktopPref.m:141 */
+"Style:" = "Style:";
+
+/* File: Preferences/DesktopPref.m:143 */
+"Classic" = "Classic";
+
+/* File: Preferences/DesktopPref.m:145 */
+"Modern" = "Modern";
+
+/* File: Preferences/DesktopPref.m:147 */
+"Omnipresent" = "Omnipresent";
+
+/* File: Preferences/DesktopPref.m:148 */
+"Autohide Tabbed Shelf" = "Autohide Tabbed Shelf";
+
+/* File: Preferences/DesktopPref.m:149 */
+"Single Click Launch" = "Single Click Launch";
+
+/* File: Preferences/DesktopPref.m:163 */
+"Desktop" = "Desktop";
+
+/* File: Preferences/DesktopPref.m:181 */
+"Choose Image" = "Choose Image";
+
+/* File: Preferences/HiddenFilesPref.m:174 */
+"Files" = "Files";
+
+/* File: Preferences/HiddenFilesPref.m:178 */
+"Folders" = "Folders";
+
+/* File: Preferences/HiddenFilesPref.m:181 */
+"Load" = "Load";
+
+/* File: Preferences/HiddenFilesPref.m:182 */
+"Hidden files" = "Hidden files";
+
+/* File: Preferences/HiddenFilesPref.m:183 */
+"Shown files" = "Shown files";
+
+/* File: Preferences/HiddenFilesPref.m:184 */
+"Select and move the files to hide or to show"
+  = "Select and move the files to hide or to show";
+
+/* File: Preferences/HiddenFilesPref.m:185 */
+"Hidden directories" = "Hidden directories";
+
+/* File: Preferences/HiddenFilesPref.m:186 */
+"Add" = "Add";
+
+/* File: Preferences/HiddenFilesPref.m:187 */
+"Remove" = "Remove";
+
+/* File: Preferences/HiddenFilesPref.m:203 */
+"Hidden Files" = "Hidden Files";
+
+/* File: Preferences/HiddenFilesPref.m:439 */
+"You have not write permission\nfor" = "You have not write permission\nfor";
+
+/* File: Preferences/HiddenFilesPref.m:442 */
+"Error" = "Error";
+
+/* File: Preferences/HiddenFilesPref.m:444 */
+"Continue" = "Continue";
+
+/* File: Preferences/HiddenFilesPref.m:484 */
+"Hide" = "Hide";
+
+/* File: Preferences/HistoryPref.m:73 */
+"Number of saved paths" = "Number of saved paths";
+
+/* File: Preferences/HistoryPref.m:87 */
+"History" = "History";
+
+/* File: Preferences/IconsPref.m:61 */
+"Thumbnails" = "Thumbnails";
+
+/* File: Preferences/IconsPref.m:62 */
+"use thumbnails" = "use thumbnails";
+
+/* File: Preferences/IconsPref.m:76 */
+"Icons" = "Icons";
+
+/* File: Preferences/OperationPrefs.m:104 */
+"Operation Preferences" = "Operation Preferences";
+
+/* File: Preferences/OperationPrefs.m:106 */
+"Show status window" = "Show status window";
+
+/* File: Preferences/OperationPrefs.m:107 */
+"Check this option to show a status window"
+  = "Check this option to show a status window";
+
+/* File: Preferences/OperationPrefs.m:108 */
+"during the file operations" = "during the file operations";
+
+/* File: Preferences/OperationPrefs.m:110 */
+"Move" = "Move";
+
+/* File: Preferences/OperationPrefs.m:111 */
+"Copy" = "Copy";
+
+/* File: Preferences/OperationPrefs.m:112 */
+"Link" = "Link";
+
+/* File: Preferences/OperationPrefs.m:113 */
+"Recycler" = "Recycler";
+
+/* File: Preferences/OperationPrefs.m:114 */
+"Duplicate" = "Duplicate";
+
+/* File: Preferences/OperationPrefs.m:115 */
+"Destroy" = "Destroy";
+
+/* File: Preferences/OperationPrefs.m:116 */
+"Uncheck the buttons to allow automatic confirmation"
+  = "Uncheck the buttons to allow automatic confirmation";
+
+/* File: Preferences/OperationPrefs.m:117 */
+"of file operations" = "of file operations";
+
+/* File: Preferences/OperationPrefs.m:130 */
+"File Operations" = "File Operations";
+
+/* File: Preferences/PrefController.m:101 */
+"GWorkspace Preferences" = "GWorkspace Preferences";
+
+/* File: Preferences/XTermPref.m:92 */
+"Terminal.app" = "Terminal.app";
+
+/* File: Preferences/XTermPref.m:93 */
+"Use Terminal service" = "Use Terminal service";
+
+/* File: Preferences/XTermPref.m:94 */
+"xterm" = "xterm";
+
+/* File: Preferences/XTermPref.m:95 */
+"arguments" = "arguments";
+
+/** Desktop **/
+
+/* File: Desktop/GWDesktopManager.m:193 */
+/* File: Desktop/GWDesktopManager.m:745 */
+/* File: Desktop/GWDesktopManager.m:755 */
+"error" = "error";
+
+/* File: Desktop/GWDesktopManager.m:195 */
+/* File: Desktop/GWDesktopManager.m:513 */
+/* File: Desktop/GWDesktopManager.m:543 */
+/* File: Desktop/GWDesktopManager.m:748 */
+/* File: Desktop/GWDesktopManager.m:758 */
+"OK" = "OK";
+
+/* File: Desktop/GWDesktopManager.m:512 */
+/* File: Desktop/GWDesktopManager.m:542 */
+"The Desktop directory has been deleted! Quitting now!"
+  = "The Desktop directory has been deleted! Quitting now!";
+
+/* File: Desktop/GWDesktopManager.m:747 */
+/* File: Desktop/GWDesktopManager.m:757 */
+"Can't open " = "Can't open ";
+
+/* File: Desktop/GWDesktopManager.m:194 */
+"Can't create the Desktop directory!"
+  = "Can't create the Desktop directory!";
+
+/* File: Desktop/GWDesktopManager.m:827 */
+"Name" = "Name";
+
+/* File: Desktop/GWDesktopManager.m:829 */
+"Type" = "Type";
+
+/* File: Desktop/GWDesktopManager.m:831 */
+"Size" = "Size";
+
+/* File: Desktop/GWDesktopManager.m:833 */
+"Modification date" = "Modification date";
+
+/* File: Desktop/GWDesktopManager.m:835 */
+"Owner" = "Owner";
+
+/* File: Desktop/GWDesktopManager.m:858 */
+"Left" = "Left";
+
+/** Desktop Dock **/
+
+/* File: Desktop/Dock/Dock.m:388 */
+/* File: Desktop/Dock/DockIcon.m:349 */
+"Show In File Viewer" = "Show In File Viewer";
+
+/* File: Desktop/Dock/Dock.m:402 */
+/* File: Desktop/Dock/DockIcon.m:367 */
+"Hide" = "Hide";
+
+/* File: Desktop/Dock/Dock.m:404 */
+/* File: Desktop/Dock/DockIcon.m:365 */
+"Unhide" = "Unhide";
+
+/* File: Desktop/Dock/Dock.m:406 */
+/* File: Desktop/Dock/DockIcon.m:374 */
+"Quit" = "Quit";
+
+/* File: Desktop/Dock/DockIcon.m:606 */
+/* File: Desktop/Dock/DockIcon.m:619 */
+"Error" = "Error";
+
+/* File: Desktop/Dock/DockIcon.m:608 */
+/* File: Desktop/Dock/DockIcon.m:621 */
+"Continue" = "Continue";
+
+/* File: Desktop/Dock/DockIcon.m:568 */
+"error" = "error";
+
+/* File: Desktop/Dock/DockIcon.m:570 */
+"Can't open " = "Can't open ";
+
+/* File: Desktop/Dock/DockIcon.m:571 */
+"OK" = "OK";
+
+/* File: Desktop/Dock/DockIcon.m:607 */
+"You are not allowed to umount\n" = "You are not allowed to umount\n";
+
+/* File: Desktop/Dock/DockIcon.m:620 */
+"You do not have write permission\nfor"
+  = "You do not have write permission\nfor";
+
+/** Fiend **/
+
+/* File: Fiend/Fiend.m:263 */
+/* File: Fiend/Fiend.m:271 */
+/* File: Fiend/Fiend.m:296 */
+/* File: Fiend/Fiend.m:303 */
+/* File: Fiend/Fiend.m:380 */
+/* File: Fiend/Fiend.m:1210 */
+/* File: Fiend/Fiend.m:1233 */
+"Continue" = "Continue";
+
+/* File: Fiend/Fiend.m:270 */
+/* File: Fiend/Fiend.m:379 */
+"A layer with this name is already present!"
+  = "A layer with this name is already present!";
+
+/* File: Fiend/Fiend.m:304 */
+/* File: Fiend/FiendLeaf.m:284 */
+/* File: Fiend/FiendLeaf.m:715 */
+"OK" = "OK";
+
+/* File: Fiend/FiendLeaf.m:281 */
+/* File: Fiend/FiendLeaf.m:712 */
+"error" = "error";
+
+/* File: Fiend/FiendLeaf.m:283 */
+/* File: Fiend/FiendLeaf.m:714 */
+"Can't open " = "Can't open ";
+
+/* File: Fiend/Fiend.m:245 */
+"New Layer" = "New Layer";
+
+/* File: Fiend/Fiend.m:262 */
+"No name supplied!" = "No name supplied!";
+
+/* File: Fiend/Fiend.m:295 */
+"You can't remove the last layer!" = "You can't remove the last layer!";
+
+/* File: Fiend/Fiend.m:301 */
+"Remove layer" = "Remove layer";
+
+/* File: Fiend/Fiend.m:302 */
+"Are you sure that you want to remove this layer?"
+  = "Are you sure that you want to remove this layer?";
+
+/* File: Fiend/Fiend.m:358 */
+"Rename Layer" = "Rename Layer";
+
+/* File: Fiend/Fiend.m:1209 */
+"You can't dock multiple paths!" = "You can't dock multiple paths!";
+
+/* File: Fiend/Fiend.m:1232 */
+"This object is already present in this layer!"
+  = "This object is already present in this layer!";
+
+/** TShelf **/
+
+/* File: TShelf/TShelfFileIcon.m:715 */
+/* File: TShelf/TShelfWin.m:392 */
+"OK" = "OK";
+
+/* File: TShelf/TShelfWin.m:316 */
+/* File: TShelf/TShelfWin.m:457 */
+"No name supplied!" = "No name supplied!";
+
+/* File: TShelf/TShelfWin.m:317 */
+/* File: TShelf/TShelfWin.m:337 */
+/* File: TShelf/TShelfWin.m:383 */
+/* File: TShelf/TShelfWin.m:399 */
+/* File: TShelf/TShelfWin.m:433 */
+/* File: TShelf/TShelfWin.m:458 */
+/* File: TShelf/TShelfWin.m:475 */
+"Continue" = "Continue";
+
+/* File: TShelf/TShelfWin.m:336 */
+/* File: TShelf/TShelfWin.m:474 */
+"Duplicate tab name!" = "Duplicate tab name!";
+
+/* File: TShelf/TShelfFileIcon.m:712 */
+"error" = "error";
+
+/* File: TShelf/TShelfFileIcon.m:714 */
+"Can't open " = "Can't open ";
+
+/* File: TShelf/TShelfIconsView.m:1193 */
+"Error!" = "Error!";
+
+/* File: TShelf/TShelfIconsView.m:1194 */
+"No space left on this tab" = "No space left on this tab";
+
+/* File: TShelf/TShelfIconsView.m:1195 */
+"Ok" = "Ok";
+
+/* File: TShelf/TShelfWin.m:297 */
+"Add Tab" = "Add Tab";
+
+/* File: TShelf/TShelfWin.m:299 */
+"pasteboard tab" = "pasteboard tab";
+
+/* File: TShelf/TShelfWin.m:382 */
+"You can't remove the last tab!" = "You can't remove the last tab!";
+
+/* File: TShelf/TShelfWin.m:388 */
+"Remove Tab" = "Remove Tab";
+
+/* File: TShelf/TShelfWin.m:389 */
+"Are you sure that you want to remove the selected tab?"
+  = "Are you sure that you want to remove the selected tab?";
+
+/* File: TShelf/TShelfWin.m:390 */
+"Cancel" = "Cancel";
+
+/* File: TShelf/TShelfWin.m:398 */
+"You can't remove this tab!" = "You can't remove this tab!";
+
+/* File: TShelf/TShelfWin.m:432 */
+"You can't rename this tab!" = "You can't rename this tab!";
+
+/* File: TShelf/TShelfWin.m:438 */ 
+"Rename Tab" = "Rename Tab";
+
+/** Finder **/
+
+/* File: Finder/Finder.m:307 */
+/* File: Finder/Finder.m:733 */
+/* File: Finder/Finder.m:747 */
+/* File: Finder/Finder.m:776 */
+"OK" = "OK";
+
+/* File: Finder/Finder.m:315 */
+/* File: Finder/Finder.m:323 */
+"name" = "name";
+
+/* File: Finder/Finder.m:732 */
+/* File: Finder/Finder.m:746 */
+"No selection!" = "No selection!";
+
+/* File: Finder/Finder.m:109 */
+"Finder" = "Finder";
+
+/* File: Finder/Finder.m:220 */
+"Search in:" = "Search in:";
+
+/* File: Finder/Finder.m:222 */
+"Current selection" = "Current selection";
+
+/* File: Finder/Finder.m:224 */
+"Specific places" = "Specific places";
+
+/* File: Finder/Finder.m:226 */
+"Add" = "Add";
+
+/* File: Finder/Finder.m:227 */
+"Remove" = "Remove";
+
+/* File: Finder/Finder.m:228 */
+"Search for items whose:" = "Search for items whose:";
+
+/* File: Finder/Finder.m:229 */
+"Recursive" = "Recursive";
+
+/* File: Finder/Finder.m:230 */
+"Search" = "Search";
+
+/* File: Finder/Finder.m:305 */
+"error" = "error";
+
+/* File: Finder/Finder.m:306 */
+"No Finder modules! Quitting now." = "No Finder modules! Quitting now.";
+
+/* File: Finder/Finder.m:316 */
+"kind" = "kind";
+
+/* File: Finder/Finder.m:317 */
+"size" = "size";
+
+/* File: Finder/Finder.m:318 */
+"owner" = "owner";
+
+/* File: Finder/Finder.m:319 */
+"date created" = "date created";
+
+/* File: Finder/Finder.m:320 */
+"date modified" = "date modified";
+
+/* File: Finder/Finder.m:321 */
+"contents" = "contents";
+
+/* File: Finder/Finder.m:569 */
+"open" = "open";
+
+/* File: Finder/Finder.m:708 */
+"elements" = "elements";
+
+/* File: Finder/Finder.m:775 */
+"No search criteria!" = "No search criteria!";
+
+/** Finder LiveSearch **/
+
+/* File: Finder/LiveSearch/LSFolder.m:286 */
+/* File: Finder/LiveSearch/LSFolder.m:341 */
+/* File: Finder/LiveSearch/LSFolder.m:440 */
+/* File: Finder/LiveSearch/LSFolder.m:990 */
+"Continue" = "Continue";
+
+/* File: Finder/LiveSearch/LSFEditor.m:133 */
+"Searching in:" = "Searching in:";
+
+/* File: Finder/LiveSearch/LSFEditor.m:134 */
+"Modules:" = "Modules:";
+
+/* File: Finder/LiveSearch/LSFEditor.m:135 */
+"recursive" = "recursive";
+
+/* File: Finder/LiveSearch/LSFolder.m:107 */
+"elements" = "elements";
+
+/* File: Finder/LiveSearch/LSFolder.m:285 */
+"unable to launch the updater task." = "unable to launch the updater task.";
+
+/* File: Finder/LiveSearch/LSFolder.m:439 */
+"updater connection died!" = "updater connection died!";
+
+/* File: Finder/LiveSearch/LSFolder.m:479 */
+"Edit" = "Edit";
+
+/* File: Finder/LiveSearch/LSFolder.m:485 */
+"no autoupdate" = "no autoupdate";
+
+/* File: Finder/LiveSearch/LSFolder.m:487 */
+"one minute" = "one minute";
+
+/* File: Finder/LiveSearch/LSFolder.m:489 */
+"5 minutes" = "5 minutes";
+
+/* File: Finder/LiveSearch/LSFolder.m:491 */
+"10 minutes" = "10 minutes";
+
+/* File: Finder/LiveSearch/LSFolder.m:493 */
+"30 minutes" = "30 minutes";
+
+/* File: Finder/LiveSearch/LSFolder.m:495 */
+"one hour" = "one hour";
+
+/* File: Finder/LiveSearch/LSFolder.m:497 */
+"2 hours" = "2 hours";
+
+/* File: Finder/LiveSearch/LSFolder.m:499 */
+"3 hours" = "3 hours";
+
+/* File: Finder/LiveSearch/LSFolder.m:501 */
+"6 hours" = "6 hours";
+
+/* File: Finder/LiveSearch/LSFolder.m:503 */
+"12 hours" = "12 hours";
+
+/* File: Finder/LiveSearch/LSFolder.m:505 */
+"a day" = "a day";
+
+/* File: Finder/LiveSearch/LSFolder.m:519 */
+"Update now" = "Update now";
+
+/* File: Finder/LiveSearch/LSFolder.m:542 */
+"Name" = "Name";
+
+/* File: Finder/LiveSearch/LSFolder.m:553 */
+"Parent" = "Parent";
+
+/* File: Finder/LiveSearch/LSFolder.m:564 */
+"Date Modified" = "Date Modified";
+
+/* File: Finder/LiveSearch/LSFolder.m:575 */
+"Size" = "Size";
+
+/* File: Finder/LiveSearch/LSFolder.m:586 */
+"Type" = "Type";
+
+/* File: Finder/LiveSearch/LSFolder.m:989 */
+"You can't move objects with multiple parent paths!"
+  = "You can't move objects with multiple parent paths!";
+
+/** Finder Modules **/
+
+/* File: Finder/Modules/FModuleAnnotations/FModuleAnnotations.m:87 */
+"contains one of" = "contains one of";
+
+/* File: Finder/Modules/FModuleAnnotations/FModuleAnnotations.m:89 */
+"contains all of" = "contains all of";
+
+/* File: Finder/Modules/FModuleAnnotations/FModuleAnnotations.m:91 */
+"with exactly" = "with exactly";
+
+/* File: Finder/Modules/FModuleAnnotations/FModuleAnnotations.m:93 */
+"without one of" = "without one of";
+
+/* File: Finder/Modules/FModuleAnnotations/FModuleAnnotations.m:141 */
+"annotations" = "annotations";
+
+/* File: Finder/Modules/FModuleContents/FModuleContents.m:80 */
+"includes" = "includes";
+
+/* File: Finder/Modules/FModuleContents/FModuleContents.m:116 */
+"contents" = "contents";
+
+/* File: Finder/Modules/FModuleCrDate/FModuleCrDate.m:149 */
+"is today" = "is today";
+
+/* File: Finder/Modules/FModuleCrDate/FModuleCrDate.m:150 */
+"is within" = "is within";
+
+/* File: Finder/Modules/FModuleCrDate/FModuleCrDate.m:151 */
+"is before" = "is before";
+
+/* File: Finder/Modules/FModuleCrDate/FModuleCrDate.m:152 */
+"is after" = "is after";
+
+/* File: Finder/Modules/FModuleCrDate/FModuleCrDate.m:153 */
+"is exactly" = "is exactly";
+
+/* File: Finder/Modules/FModuleCrDate/FModuleCrDate.m:157 */
+"the last day" = "the last day";
+
+/* File: Finder/Modules/FModuleCrDate/FModuleCrDate.m:158 */
+"the last 2 days" = "the last 2 days";
+
+/* File: Finder/Modules/FModuleCrDate/FModuleCrDate.m:159 */
+"the last 3 days" = "the last 3 days";
+
+/* File: Finder/Modules/FModuleCrDate/FModuleCrDate.m:160 */
+"the last week" = "the last week";
+
+/* File: Finder/Modules/FModuleCrDate/FModuleCrDate.m:161 */
+"the last 2 weeks" = "the last 2 weeks";
+
+/* File: Finder/Modules/FModuleCrDate/FModuleCrDate.m:162 */
+"the last 3 weeks" = "the last 3 weeks";
+
+/* File: Finder/Modules/FModuleCrDate/FModuleCrDate.m:163 */
+"the last month" = "the last month";
+
+/* File: Finder/Modules/FModuleCrDate/FModuleCrDate.m:164 */
+"the last 2 months" = "the last 2 months";
+
+/* File: Finder/Modules/FModuleCrDate/FModuleCrDate.m:165 */
+"the last 3 months" = "the last 3 months";
+
+/* File: Finder/Modules/FModuleCrDate/FModuleCrDate.m:166 */
+"the last 6 months" = "the last 6 months";
+
+/* File: Finder/Modules/FModuleCrDate/FModuleCrDate.m:331 */
+"date created" = "date created";
+
+/* File: Finder/Modules/FModuleKind/FModuleKind.m:86 */
+"is" = "is";
+
+/* File: Finder/Modules/FModuleKind/FModuleKind.m:87 */
+"is not" = "is not";
+
+/* File: Finder/Modules/FModuleKind/FModuleKind.m:91 */
+"plain file" = "plain file";
+
+/* File: Finder/Modules/FModuleKind/FModuleKind.m:92 */
+"folder" = "folder";
+
+/* File: Finder/Modules/FModuleKind/FModuleKind.m:93 */
+"tool" = "tool";
+
+/* File: Finder/Modules/FModuleKind/FModuleKind.m:94 */
+"symbolic link" = "symbolic link";
+
+/* File: Finder/Modules/FModuleKind/FModuleKind.m:95 */
+"application" = "application";
+
+/* File: Finder/Modules/FModuleKind/FModuleKind.m:143 */
+"type" = "type";
+
+/* File: Finder/Modules/FModuleName/FModuleName.m:88 */
+"contains" = "contains";
+
+/* File: Finder/Modules/FModuleName/FModuleName.m:90 */
+"is" = "is";
+
+/* File: Finder/Modules/FModuleName/FModuleName.m:92 */
+"contains not" = "contains not";
+
+/* File: Finder/Modules/FModuleName/FModuleName.m:94 */
+"starts with" = "starts with";
+
+/* File: Finder/Modules/FModuleName/FModuleName.m:96 */
+"ends with" = "ends with";
+
+/* File: Finder/Modules/FModuleName/FModuleName.m:143 */
+"name" = "name";
+
+/* File: Finder/Modules/FModuleOwner/FModuleOwner.m:84 */
+"is" = "is";
+
+/* File: Finder/Modules/FModuleOwner/FModuleOwner.m:85 */
+"is not" = "is not";
+
+/* File: Finder/Modules/FModuleOwner/FModuleOwner.m:131 */
+"owner" = "owner";
+
+/* File: Finder/Modules/FModuleSize/FModuleSize.m:83 */
+"greater than" = "greater than";
+
+/* File: Finder/Modules/FModuleSize/FModuleSize.m:84 */
+"less than" = "less than";
+
+/* File: Finder/Modules/FModuleSize/FModuleSize.m:130 */
+"size" = "size";
+
+/* File: Finder/Modules/FModuleModDate/FModuleModDate.m:151 */
+"is today" = "is today";
+
+/* File: Finder/Modules/FModuleModDate/FModuleModDate.m:152 */
+"is within" = "is within";
+
+/* File: Finder/Modules/FModuleModDate/FModuleModDate.m:153 */
+"is before" = "is before";
+
+/* File: Finder/Modules/FModuleModDate/FModuleModDate.m:154 */
+"is after" = "is after";
+
+/* File: Finder/Modules/FModuleModDate/FModuleModDate.m:155 */
+"is exactly" = "is exactly";
+
+/* File: Finder/Modules/FModuleModDate/FModuleModDate.m:159 */
+"the last day" = "the last day";
+
+/* File: Finder/Modules/FModuleModDate/FModuleModDate.m:160 */
+"the last 2 days" = "the last 2 days";
+
+/* File: Finder/Modules/FModuleModDate/FModuleModDate.m:161 */
+"the last 3 days" = "the last 3 days";
+
+/* File: Finder/Modules/FModuleModDate/FModuleModDate.m:162 */
+"the last week" = "the last week";
+
+/* File: Finder/Modules/FModuleModDate/FModuleModDate.m:163 */
+"the last 2 weeks" = "the last 2 weeks";
+
+/* File: Finder/Modules/FModuleModDate/FModuleModDate.m:164 */
+"the last 3 weeks" = "the last 3 weeks";
+
+/* File: Finder/Modules/FModuleModDate/FModuleModDate.m:165 */
+"the last month" = "the last month";
+
+/* File: Finder/Modules/FModuleModDate/FModuleModDate.m:166 */
+"the last 2 months" = "the last 2 months";
+
+/* File: Finder/Modules/FModuleModDate/FModuleModDate.m:167 */
+"the last 3 months" = "the last 3 months";
+
+/* File: Finder/Modules/FModuleModDate/FModuleModDate.m:168 */
+"the last 6 months" = "the last 6 months";
+
+/* File: Finder/Modules/FModuleModDate/FModuleModDate.m:333 */
+"date modified" = "date modified";
+
+/** SearchResults **/
+
+/* File: Finder/SearchResults/SearchResults.m:316 */
+/* File: Finder/SearchResults/SearchResults.m:329 */
+/* File: Finder/SearchResults/SearchResults.m:635 */
+/* File: Finder/SearchResults/SearchResults.m:774 */
+"Continue" = "Continue";
+
+/* File: Finder/SearchResults/SearchResults.m:684 */
+/* File: Finder/SearchResults/SearchResults.m:692 */
+"Ok" = "Ok";
+
+/* File: Finder/SearchResults/SearchResults.m:103 */
+"elements" = "elements";
+
+/* File: Finder/SearchResults/SearchResults.m:131 */
+"Name" = "Name";
+
+/* File: Finder/SearchResults/SearchResults.m:142 */
+"Parent" = "Parent";
+
+/* File: Finder/SearchResults/SearchResults.m:153 */
+"Date Modified" = "Date Modified";
+
+/* File: Finder/SearchResults/SearchResults.m:164 */
+"Size" = "Size";
+
+/* File: Finder/SearchResults/SearchResults.m:175 */
+"Type" = "Type";
+
+/* File: Finder/SearchResults/SearchResults.m:315 */
+"the search tool connection died!" = "the search tool connection died!";
+
+/* File: Finder/SearchResults/SearchResults.m:328 */
+"unable to launch the search task." = "unable to launch the search task.";
+
+/* File: Finder/SearchResults/SearchResults.m:618 */
+"New Live Search" = "New Live Search";
+
+/* File: Finder/SearchResults/SearchResults.m:634 */
+"No name supplied!" = "No name supplied!";
+
+/* File: Finder/SearchResults/SearchResults.m:683 */
+"can't create the Live Search folder"
+  = "can't create the Live Search folder";
+
+/* File: Finder/SearchResults/SearchResults.m:773 */
+"You can't move objects with multiple parent paths!"
+  = "You can't move objects with multiple parent paths!";
+
+/** History **/
+
+/* File: History/History.m:59 */
+"History" = "History";
+
+/** Inspector **/
+
+/* File: Annotations.m:150 */
+/* File: Attributes.m:293 */
+/* File: Contents.m:189 */
+/* File: Tools.m:160 */
+"Items" = "Items";
+
+/* File: Attributes.m:166 */
+/* File: Tools.m:465 */
+"OK" = "OK";
+
+/* File: Contents.m:156 */
+/* File: Contents.m:687 */
+/* File: Contents.m:705 */
+"No Contents Inspector" = "No Contents Inspector";
+
+/* File: Contents.m:173 */
+/* File: Contents.m:307 */
+/* File: Contents.m:317 */
+"Contents Inspector" = "Contents Inspector";
+
+/* File: Annotations.m:78 */
+"No Annotations Inspector" = "No Annotations Inspector";
+
+/* File: Annotations.m:93 */
+"Annotations Inspector" = "Annotations Inspector";
+
+/* File: Attributes.m:151 */
+"Link to:" = "Link to:";
+
+/* File: Attributes.m:152 */
+"Size:" = "Size:";
+
+/* File: Attributes.m:153 */
+"Calculate" = "Calculate";
+
+/* File: Attributes.m:154 */
+"Owner:" = "Owner:";
+
+/* File: Attributes.m:155 */
+"Group:" = "Group:";
+
+/* File: Attributes.m:156 */
+"Changed" = "Changed";
+
+/* File: Attributes.m:157 */
+"Permissions" = "Permissions";
+
+/* File: Attributes.m:158 */
+"Read" = "Read";
+
+/* File: Attributes.m:159 */
+"Write" = "Write";
+
+/* File: Attributes.m:160 */
+"Execute" = "Execute";
+
+/* File: Attributes.m:161 */
+"Owner_short" = "Owner_short";
+
+/* File: Attributes.m:162 */
+"Group" = "Group";
+
+/* File: Attributes.m:163 */
+"Other" = "Other";
+
+/* File: Attributes.m:164 */
+"also apply to files inside selection"
+  = "also apply to files inside selection";
+
+/* File: Attributes.m:165 */
+"Revert" = "Revert";
+
+/* File: Attributes.m:179 */
+"Attributes Inspector" = "Attributes Inspector";
+
+/* File: Contents.m:295 */
+"Text Inspector" = "Text Inspector";
+
+/* File: Contents.m:386 */
+"Data Inspector" = "Data Inspector";
+
+/* File: Contents.m:490 */
+"Edit" = "Edit";
+
+/* File: Inspector.m:92 */
+"Attributes" = "Attributes";
+
+/* File: Inspector.m:99 */
+"Contents" = "Contents";
+
+/* File: Inspector.m:106 */
+"Tools" = "Tools";
+
+/* File: Inspector.m:113 */
+"Annotations" = "Annotations";
+
+/* File: Tools.m:109 */
+"No Tools Inspector" = "No Tools Inspector";
+
+/* File: Tools.m:115 */
+"Set Default" = "Set Default";
+
+/* File: Tools.m:129 */
+"Tools Inspector" = "Tools Inspector";
+
+/* File: Tools.m:462 */
+"error" = "error";
+
+/* File: Tools.m:464 */
+"Can't open " = "Can't open ";
+
+/* File: ContentViewers/FolderViewer/FolderViewer.m:56 */
+"Sort by" = "Sort by";
+
+/* File: ContentViewers/FolderViewer/FolderViewer.m:80 */
+"Name" = "Name";
+
+/* File: ContentViewers/FolderViewer/FolderViewer.m:83 */
+"Type" = "Type";
+
+/* File: ContentViewers/FolderViewer/FolderViewer.m:86 */
+"Date" = "Date";
+
+/* File: ContentViewers/FolderViewer/FolderViewer.m:89 */
+"Size" = "Size";
+
+/* File: ContentViewers/FolderViewer/FolderViewer.m:92 */
+"Owner" = "Owner";
+
+/* File: ContentViewers/FolderViewer/FolderViewer.m:107 */
+"Sort method applies to the\ncontents of the selected folder,\nNOT to its parent folder"
+  = "Sort method applies to the\ncontents of the selected folder,\nNOT to its parent folder";
+
+/* File: ContentViewers/FolderViewer/FolderViewer.m:115 */
+"Ok" = "Ok";
+
+/* File: ContentViewers/FolderViewer/FolderViewer.m:185 */
+"Folder Inspector" = "Folder Inspector";
+
+/* File: ContentViewers/FolderViewer/FolderViewer.m:190 */
+"This Inspector allow you to sort the contents of a Folder"
+  = "This Inspector allow you to sort the contents of a Folder";
+
+/* File: ContentViewers/IBViewViewer/IBViewViewer.m:121 */
+"Invalid Contents" = "Invalid Contents";
+
+/* File: ContentViewers/IBViewViewer/IBViewViewer.m:126 */
+"IBView data" = "IBView data";
+
+/* File: ContentViewers/IBViewViewer/IBViewViewer.m:234 */
+"IBView Inspector" = "IBView Inspector";
+
+/* File: ContentViewers/IBViewViewer/IBViewViewer.m:239 */
+"This Inspector allow you view IBView pasteboard data"
+  = "This Inspector allow you view IBView pasteboard data";
+
+/* File: ContentViewers/ImageViewer/ImageViewer.m:101 */
+"Invalid Contents" = "Invalid Contents";
+
+/* File: ContentViewers/ImageViewer/ImageViewer.m:117 */
+"Edit" = "Edit";
+
+/* File: ContentViewers/ImageViewer/ImageViewer.m:267 */
+"Width:" = "Width:";
+
+/* File: ContentViewers/ImageViewer/ImageViewer.m:271 */
+"Height:" = "Height:";
+
+/* File: ContentViewers/ImageViewer/ImageViewer.m:344 */
+"Image Inspector" = "Image Inspector";
+
+/* File: ContentViewers/ImageViewer/ImageViewer.m:349 */
+"This Inspector allow you view the content of an Image file"
+  = "This Inspector allow you view the content of an Image file";
+
+/* File: ContentViewers/ImageViewer/ImageViewer.m:366 */
+"error" = "error";
+
+/* File: ContentViewers/ImageViewer/ImageViewer.m:368 */
+"Can't open " = "Can't open ";
+
+/* File: ContentViewers/ImageViewer/ImageViewer.m:369 */
+"OK" = "OK";
+
+/* File: ContentViewers/NSColorViewer/NSColorViewer.m:115 */
+"Invalid Contents" = "Invalid Contents";
+
+/* File: ContentViewers/NSColorViewer/NSColorViewer.m:120 */
+"NSColor data" = "NSColor data";
+
+/* File: ContentViewers/NSColorViewer/NSColorViewer.m:196 */
+"NSColor Inspector" = "NSColor Inspector";
+
+/* File: ContentViewers/NSColorViewer/NSColorViewer.m:201 */
+"This Inspector allow you view NSColor pasteboard data"
+  = "This Inspector allow you view NSColor pasteboard data";
+
+/* File: ContentViewers/NSRTFViewer/NSRTFViewer.m:93 */
+"Invalid Contents" = "Invalid Contents";
+
+/* File: ContentViewers/NSRTFViewer/NSRTFViewer.m:99 */
+"NSString data" = "NSString data";
+
+/* File: ContentViewers/NSRTFViewer/NSRTFViewer.m:100 */
+"NSRTF data" = "NSRTF data";
+
+/* File: ContentViewers/NSRTFViewer/NSRTFViewer.m:101 */
+"NSRTFD data" = "NSRTFD data";
+
+/* File: ContentViewers/NSRTFViewer/NSRTFViewer.m:196 */
+"Rtf Inspector" = "Rtf Inspector";
+
+/* File: ContentViewers/NSRTFViewer/NSRTFViewer.m:201 */
+"This Inspector allow you view NSRTF pasteboard data"
+  = "This Inspector allow you view NSRTF pasteboard data";
+
+/* File: ContentViewers/NSTIFFViewer/NSTIFFViewer.m:94 */
+"Invalid Contents" = "Invalid Contents";
+
+/* File: ContentViewers/NSTIFFViewer/NSTIFFViewer.m:99 */
+"Image data" = "Image data";
+
+/* File: ContentViewers/NSTIFFViewer/NSTIFFViewer.m:149 */
+"Width:" = "Width:";
+
+/* File: ContentViewers/NSTIFFViewer/NSTIFFViewer.m:153 */
+"Height:" = "Height:";
+
+/* File: ContentViewers/NSTIFFViewer/NSTIFFViewer.m:191 */
+"NSTIFF Inspector" = "NSTIFF Inspector";
+
+/* File: ContentViewers/NSTIFFViewer/NSTIFFViewer.m:196 */
+"This Inspector allow you view NSTIFF pasteboard data"
+  = "This Inspector allow you view NSTIFF pasteboard data";
+
+/* File: ContentViewers/PdfViewer/PdfViewer.m:130 */
+"Invalid Contents" = "Invalid Contents";
+
+/* File: ContentViewers/PdfViewer/PdfViewer.m:140 */
+"Edit" = "Edit";
+
+/* File: ContentViewers/PdfViewer/PdfViewer.m:369 */
+"Pdf Inspector" = "Pdf Inspector";
+
+/* File: ContentViewers/PdfViewer/PdfViewer.m:374 */
+"This Inspector allow you View the content of a PDF file"
+  = "This Inspector allow you View the content of a PDF file";
+
+/* File: ContentViewers/PdfViewer/PdfViewer.m:428 */
+"error" = "error";
+
+/* File: ContentViewers/PdfViewer/PdfViewer.m:430 */
+"Can't open " = "Can't open ";
+
+/* File: ContentViewers/PdfViewer/PdfViewer.m:431 */
+"OK" = "OK";
+
+/* File: ContentViewers/RtfViewer/RtfViewer.m:98 */
+"Invalid Contents" = "Invalid Contents";
+
+/* File: ContentViewers/RtfViewer/RtfViewer.m:108 */
+"Edit" = "Edit";
+
+/* File: ContentViewers/RtfViewer/RtfViewer.m:259 */
+"Rtf-Txt Inspector" = "Rtf-Txt Inspector";
+
+/* File: ContentViewers/RtfViewer/RtfViewer.m:264 */
+"This Inspector allow you view the content of an Rtf ot txt file"
+  = "This Inspector allow you view the content of an Rtf ot txt file";
+
+/* File: ContentViewers/RtfViewer/RtfViewer.m:281 */
+"error" = "error";
+
+/* File: ContentViewers/RtfViewer/RtfViewer.m:283 */
+"Can't open " = "Can't open ";
+
+/* File: ContentViewers/RtfViewer/RtfViewer.m:284 */
+"OK" = "OK";
+
+/* File: ContentViewers/SoundViewer/SoundViewer.m:53 */
+"Player" = "Player";
+
+/* File: ContentViewers/SoundViewer/SoundViewer.m:105 */
+"Edit" = "Edit";
+
+/* File: ContentViewers/SoundViewer/SoundViewer.m:121 */
+"Invalid Contents" = "Invalid Contents";
+
+/* File: ContentViewers/SoundViewer/SoundViewer.m:178 */
+"error" = "error";
+
+/* File: ContentViewers/SoundViewer/SoundViewer.m:180 */
+"Can't open " = "Can't open ";
+
+/* File: ContentViewers/SoundViewer/SoundViewer.m:181 */
+"OK" = "OK";
+
+/* File: ContentViewers/SoundViewer/SoundViewer.m:298 */
+"Sound Inspector" = "Sound Inspector";
+
+/* File: ContentViewers/SoundViewer/SoundViewer.m:303 */
+"This Inspector allow you to play a sound file"
+  = "This Inspector allow you to play a sound file";
+
+/** Operation **/
+
+/* File: FileOpInfo.m:119 */
+/* File: FileOpInfo.m:445 */
+/* File: FileOpInfo.m:453 */
+/* File: FileOpInfo.m:461 */
+/* File: FileOpInfo.m:485 */
+/* File: FileOpInfo.m:493 */
+"From:" = "From:";
+
+/* File: FileOpInfo.m:120 */
+/* File: FileOpInfo.m:447 */
+/* File: FileOpInfo.m:455 */
+/* File: FileOpInfo.m:463 */
+/* File: FileOpInfo.m:487 */
+/* File: FileOpInfo.m:495 */
+"To:" = "To:";
+
+/* File: FileOpInfo.m:121 */
+/* File: FileOpInfo.m:391 */
+"Pause" = "Pause";
+
+/* File: FileOpInfo.m:141 */
+/* File: FileOpInfo.m:1208 */
+/* File: FileOpInfo.m:1335 */
+"_copy" = "_copy";
+
+/* File: FileOpInfo.m:227 */
+/* File: FileOpInfo.m:229 */
+/* File: FileOpInfo.m:259 */
+/* File: FileOpInfo.m:269 */
+/* File: FileOpInfo.m:444 */
+/* File: FileOpInfo.m:484 */
+/* File: FileOpInfo.m:492 */
+/* File: FileOpInfo.m:637 */
+"Move" = "Move";
+
+/* File: FileOpInfo.m:231 */
+/* File: FileOpInfo.m:241 */
+/* File: FileOpInfo.m:251 */
+/* File: FileOpInfo.m:261 */
+"from" = "from";
+
+/* File: FileOpInfo.m:232 */
+/* File: FileOpInfo.m:242 */
+/* File: FileOpInfo.m:252 */
+/* File: FileOpInfo.m:272 */
+"\nto: " = "\nto: ";
+
+/* File: FileOpInfo.m:237 */
+/* File: FileOpInfo.m:239 */
+/* File: FileOpInfo.m:452 */
+/* File: FileOpInfo.m:642 */
+"Copy" = "Copy";
+
+/* File: FileOpInfo.m:247 */
+/* File: FileOpInfo.m:249 */
+/* File: FileOpInfo.m:460 */
+/* File: FileOpInfo.m:647 */
+"Link" = "Link";
+
+/* File: FileOpInfo.m:257 */
+/* File: FileOpInfo.m:267 */
+/* File: FileOpInfo.m:277 */
+"Recycler" = "Recycler";
+
+/* File: FileOpInfo.m:287 */
+/* File: FileOpInfo.m:468 */
+"Duplicate" = "Duplicate";
+
+/* File: FileOpInfo.m:292 */
+/* File: FileOpInfo.m:662 */
+/* File: Operation.m:180 */
+"OK" = "OK";
+
+/* File: FileOpInfo.m:293 */
+/* File: FileOpInfo.m:368 */
+/* File: FileOpInfo.m:663 */
+"Cancel" = "Cancel";
+
+/* File: FileOpInfo.m:350 */
+/* File: FileOpInfo.m:385 */
+/* File: FileOpInfo.m:716 */
+/* File: Operation.m:434 */
+/* File: Operation.m:472 */
+"Continue" = "Continue";
+
+/* File: FileOpInfo.m:367 */
+/* File: FileOpInfo.m:376 */
+"Ok" = "Ok";
+
+/* File: FileOpInfo.m:469 */
+/* File: FileOpInfo.m:477 */
+/* File: FileOpInfo.m:501 */
+"In:" = "In:";
+
+/* File: FileOpInfo.m:476 */
+/* File: FileOpInfo.m:500 */
+"Destroy" = "Destroy";
+
+/* File: FileOpInfo.m:488 */
+/* File: FileOpInfo.m:494 */
+/* File: FileOpInfo.m:502 */
+"the Recycler" = "the Recycler";
+
+/* File: FileOpInfo.m:636 */
+/* File: FileOpInfo.m:641 */
+/* File: FileOpInfo.m:646 */
+/* File: FileOpInfo.m:651 */
+/* File: FileOpInfo.m:656 */
+"Some items have the same name;\ndo you want to replace them?"
+  = "Some items have the same name;\ndo you want to replace them?";
+
+/* File: FileOpInfo.m:652 */
+/* File: FileOpInfo.m:657 */
+"Recycle" = "Recycle";
+
+/* File: FileOpInfo.m:1494 */
+/* File: Operation.m:432 */
+/* File: Operation.m:470 */
+"Error" = "Error";
+
+/* File: FileOpInfo.m:122 */
+"Stop" = "Stop";
+
+/* File: FileOpInfo.m:218 */
+"items" = "items";
+
+/* File: FileOpInfo.m:222 */
+"one item" = "one item";
+
+/* File: FileOpInfo.m:262 */
+"\nto the Recycler" = "\nto the Recycler";
+
+/* File: FileOpInfo.m:271 */
+"from the Recycler" = "from the Recycler";
+
+/* File: FileOpInfo.m:278 */
+"Empty the Recycler?" = "Empty the Recycler?";
+
+/* File: FileOpInfo.m:282 */
+"Delete" = "Delete";
+
+/* File: FileOpInfo.m:283 */
+"Delete the selected objects?" = "Delete the selected objects?";
+
+/* File: FileOpInfo.m:288 */
+"Duplicate the selected objects?" = "Duplicate the selected objects?";
+
+/* File: FileOpInfo.m:349 */
+"A fatal error occurred while detaching the thread!"
+  = "A fatal error occurred while detaching the thread!";
+
+/* File: FileOpInfo.m:664 */
+"Only older" = "Only older";
+
+/* File: FileOpInfo.m:715 */
+"executor connection died!" = "executor connection died!";
+
+/* File: FileOpInfo.m:1488 */
+"File operation error:" = "File operation error:";
+
+/* File: FileOpInfo.m:1490 */
+"with file:" = "with file:";
+
+/* File: FileOpInfo.m:1531 */
+"File Operation Error!" = "File Operation Error!";
+
+/* File: Operation.m:179 */
+"Some files are in use by another operation!"
+  = "Some files are in use by another operation!";
+
+/* File: Operation.m:433 */
+": no such file or directory!" = ": no such file or directory!";
+
+/* File: Operation.m:471 */
+": Directory Protected!" = ": Directory Protected!";

@@ -1,0 +1,125 @@
+/***
+English.lproj/Localizable.strings
+updated by make_strings 2026-04-01 16:08:07 +0900
+add comments above this one
+***/
+
+
+/*** Keys found in multiple places ***/
+
+/* File: Recycler.m:252 */
+/* Flag: untranslated */
+/* File: Recycler.m:321 */
+/* Flag: untranslated */
+/* File: Recycler.m:351 */
+/* Flag: untranslated */
+"Ok" = "Ok";
+
+/* File: Recycler.m:415 */
+/* Flag: untranslated */
+/* File: Recycler.m:545 */
+/* Flag: untranslated */
+"OK" = "OK";
+
+/* File: RecyclerIcon.m:259 */
+/* Flag: untranslated */
+/* File: RecyclerIcon.m:271 */
+/* Flag: untranslated */
+"Error" = "Error";
+
+/* File: RecyclerIcon.m:261 */
+/* Flag: untranslated */
+/* File: RecyclerIcon.m:273 */
+/* Flag: untranslated */
+"Continue" = "Continue";
+
+
+/*** Unmatched/untranslated keys ***/
+
+/* File: Recycler.m:251 */
+/* Flag: untranslated */
+"unable to contact the workspace application!"
+  = "unable to contact the workspace application!";
+
+/* File: Recycler.m:320 */
+/* Flag: untranslated */
+"unable to contact fswatcher\nfswatcher notifications disabled!"
+  = "unable to contact fswatcher\nfswatcher notifications disabled!";
+
+/* File: Recycler.m:342 */
+/* Flag: untranslated */
+"The fswatcher connection died.\nDo you want to restart it?"
+  = "The fswatcher connection died.\nDo you want to restart it?";
+
+/* File: Recycler.m:343 */
+/* Flag: untranslated */
+"Yes" = "Yes";
+
+/* File: Recycler.m:344 */
+/* Flag: untranslated */
+"No" = "No";
+
+/* File: Recycler.m:350 */
+/* Flag: untranslated */
+"fswatcher notifications disabled!" = "fswatcher notifications disabled!";
+
+/* File: Recycler.m:414 */
+/* Flag: untranslated */
+"Unable to contact GWorkspace" = "Unable to contact GWorkspace";
+
+/* File: Recycler.m:544 */
+/* Flag: untranslated */
+"File operations disabled!" = "File operations disabled!";
+
+/* File: RecyclerIcon.m:260 */
+/* Flag: untranslated */
+"You are not allowed to umount\n" = "You are not allowed to umount\n";
+
+/* File: RecyclerIcon.m:272 */
+/* Flag: untranslated */
+"You do not have write permission\nfor"
+  = "You do not have write permission\nfor";
+
+/* File: main.m:68 */
+/* Flag: untranslated */
+"Recycler" = "Recycler";
+
+/* File: main.m:71 */
+/* Flag: untranslated */
+"Info" = "Info";
+
+/* File: main.m:74 */
+/* Flag: untranslated */
+"Info Panel..." = "Info Panel...";
+
+/* File: main.m:75 */
+/* Flag: untranslated */
+"Preferences..." = "Preferences...";
+
+/* File: main.m:76 */
+/* Flag: untranslated */
+"Help..." = "Help...";
+
+/* File: main.m:79 */
+/* Flag: untranslated */
+"File" = "File";
+
+/* File: main.m:82 */
+/* Flag: untranslated */
+"Empty Recycler" = "Empty Recycler";
+
+/* File: main.m:85 */
+/* Flag: untranslated */
+"Edit" = "Edit";
+
+/* File: main.m:88 */
+/* Flag: untranslated */
+"Paste" = "Paste";
+
+/* File: main.m:91 */
+/* Flag: untranslated */
+"Hide" = "Hide";
+
+/* File: main.m:94 */
+/* Flag: untranslated */
+"Quit" = "Quit";
